@@ -1,5 +1,3 @@
 public class Hello{
-	private String name;
-
-	xxxxxxxx
+	1803a add
 }
